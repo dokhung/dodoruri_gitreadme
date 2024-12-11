@@ -1,11 +1,18 @@
-#Hi Welcome, My name is DOKHUNG OH
+# Hi Welcome, My name is DOKHUNG OH
 
-
-Web Back Front Development
-
-Those who are interested in developing a hobby and developing a game
+My hobby is developing and I am interested in developing games, so I am developing them. I have a desire to have my own web page, so I am constantly studying to write it personally.
 
 If I get a good work someday, I'm also dreaming of a one-person development project.
+
+# 봐주셔서 감사합니다. 저의 이름은 오도경 입니다.
+
+취미도 개발이며 게임개발에도 흥미를 가지고 있어서 개발을 하고 있습니다. 나만의 웹페이지 또한 가지고 싶다는 욕망이 있어서 개인적으로 작성을 하려고 공부를 꾸준히 하고 있습니다.
+
+
+# こんにちは、私の名前はオドギョンと申します。
+
+趣味も開発ですし、ゲーム開発にも興味を持っているので開発をしています。 自分だけのウェブページも欲しいという欲望があって、個人的に作成しようと勉強を続けています。
+いつか素晴らしい個人開発プロジェクトも夢見ています。
 
 ---
 
@@ -57,4 +64,7 @@ If I get a good work someday, I'm also dreaming of a one-person development proj
 
 | Period              | Role                                           | Description |
 |---------------------|------------------------------------------------|-------------|
-| 2022.09 ~ 2023.05   | Junior Developer, Development Research Team (EasternSky) | - Developed real-time mobile and responsive web applications.<br>**Technical Stack:**<br>- **Frontend:** React (JS)<br>- **Backend:** Express (JS)<br>- **Versioning:** Git, GitDesktop<br>- **DevOps:** Local, Release, and Master environment cycle for development and deployment.<br><br>**Projects:**<br>- Managed Git history using SourceTree.<br>- Communicated and resolved issues using Origin Message.<br><br>**Troubleshooting - iOS Optimization Case:**<br>- **Cause:** iOS did not support notification features during early development.<br>- **Solution:** Enhanced HTTP security and implemented Service Worker for compatibility. |
+| 2022.09 ~ 2023.05   | Full Stack Web Developer, EasternSky           | - Worked as a web developer in the company, specializing in full stack web development.<br>**Technical Stack:**<br>- **Frontend:** React (JS)<br>- **Backend:** Express (JS)<br>- **Versioning:** Git, GitDesktop<br>- **DevOps:** Local, Release, and Master environment cycle for development and deployment.<br><br>**Projects:**<br>- Managed Git history using SourceTree.<br>- Communicated and resolved issues using Origin Message.<br><br>**Troubleshooting - iOS Optimization Case:**<br>- **Cause:** iOS did not support notification features during early development.<br>- **Solution:** Enhanced HTTP security and implemented Service Worker for compatibility. |
+
+
+
