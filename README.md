@@ -66,5 +66,13 @@ If I get a good work someday, I'm also dreaming of a one-person development proj
 |---------------------|------------------------------------------------|-------------|
 | 2022.09 ~ 2023.05   | Full Stack Web Developer, EasternSky           | - Worked as a web developer in the company, specializing in full stack web development.<br>**Technical Stack:**<br>- **Frontend:** React (JS)<br>- **Backend:** Express (JS)<br>- **Versioning:** Git, GitDesktop<br>- **DevOps:** Local, Release, and Master environment cycle for development and deployment.<br><br>**Projects:**<br>- Managed Git history using SourceTree.<br>- Communicated and resolved issues using Origin Message.<br><br>**Troubleshooting - iOS Optimization Case:**<br>- **Cause:** iOS did not support notification features during early development.<br>- **Solution:** Enhanced HTTP security and implemented Service Worker for compatibility. |
 
+## 🌟 Side Projects
+
+| Period              | Project Name                                    | Description                                                                                                      |
+|---------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 2024.08 ~ Present   | **Metaverse Communication App**                 | - Developed an interactive application where users can communicate through avatars while enjoying customized environments.<br>**Responsibilities:**<br>- Lead Developer (Team of 7)<br>- Unity WebGL development<br>- Frontend development<br>- Spring Boot API development for managing web and DTO communication<br>- UI design<br>- Blender 3D asset creation<br>- Integrated Google Login functionality for user authentication.<br>- Developed Unity Sound Manager and Game Manager.<br>- Connected server APIs for notifications and user data synchronization.<br><br>**Key Features:**<br>- Designed APIs and JPAs for the friend recruitment board.<br>- Implemented secure communication between Unity and the server for user notifications and data.<br><br>**Technical Stack:**<br>- **Languages:** C++, TypeScript, Java, JavaScript, C#, Python<br>- **OS:** Mac, Windows<br>- **Database:** MySQL |
+
+
+
 
 
