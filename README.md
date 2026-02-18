@@ -1,21 +1,3 @@
-# Hi Welcome, My name is DOKHUNG OH
-
-My hobby is developing and I am interested in developing games, so I am developing them. I have a desire to have my own web page, so I am constantly studying to write it personally.
-
-If I get a good work someday, I'm also dreaming of a one-person development project.
-
-# 봐주셔서 감사합니다. 저의 이름은 오도경 입니다.
-
-취미도 개발이며 게임개발에도 흥미를 가지고 있어서 개발을 하고 있습니다. 나만의 웹페이지 또한 가지고 싶다는 욕망이 있어서 개인적으로 작성을 하려고 공부를 꾸준히 하고 있습니다.
-
-
-# こんにちは、私の名前はオドギョンと申します。
-
-趣味も開発ですし、ゲーム開発にも興味を持っているので開発をしています。 自分だけのウェブページも欲しいという欲望があって、個人的に作成しようと勉強を続けています。
-いつか素晴らしい個人開発プロジェクトも夢見ています。
-
----
-
 ### 🛠️ Stacks : Language
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
